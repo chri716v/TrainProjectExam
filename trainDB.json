@@ -1,0 +1,10 @@
+[
+{"id":"1","name":"Nærum","fX":500,"fY": 10, "Ticket": "You can buy tickets at this station"},
+{"id":"2","name":"Ravnholm","fX":500,"fY":105, "Ticket": "You cannot buy tickets at this station"},
+{"id":"3","name":"Ørholm","fX":500,"fY":220, "Ticket": "You cannot buy tickets at this station"},
+{"id":"4","name":"Brede","fX":500,"fY":335, "Ticket": "You cannot buy tickets at this station"},
+{"id":"5","name":"Fuglevad","fX":500,"fY":450, "Ticket": "You cannot buy tickets at this station"},
+{"id":"6","name":"Lyngby Lokal","fX":500,"fY":560, "Ticket": "You cannot buy tickets at this station"},
+{"id":"7","name":"Nørgaardsvej","fX":500,"fY":690, "Ticket": "You cannot buy tickets at this station"},
+{"id":"8","name":"Jægersborg","fX":500,"fY":861, "Ticket": "You can buy tickets at this station"}
+]
